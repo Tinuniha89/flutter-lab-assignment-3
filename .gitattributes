@@ -1,0 +1,24 @@
+*.dart linguist-language=Dart
+*.h linguist-language=C++
+*.cc linguist-language=C++
+*.cpp linguist-language=C++
+*.swift linguist-language=Swift
+*.kt linguist-language=Kotlin
+*.java linguist-language=Java
+
+# Documentation
+*.md linguist-documentation
+*.json linguist-documentation
+*.yaml linguist-documentation
+*.yml linguist-documentation
+
+# Generated files
+build/** linguist-generated
+.dart_tool/** linguist-generated
+.idea/** linguist-generated
+android/** linguist-generated
+ios/** linguist-generated
+linux/** linguist-generated
+macos/** linguist-generated
+windows/** linguist-generated
+web/** linguist-generated 
