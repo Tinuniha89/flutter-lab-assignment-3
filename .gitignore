@@ -32,6 +32,16 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+# Add these if not already present
+/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+/android/
+/ios/
+/linux/
+/windows/
+/web/
 
 # Symbolication related
 app.*.symbols

@@ -1,0 +1,11 @@
+# Mark generated files
+*.g.dart linguist-generated=true
+/build/** linguist-generated=true
+/android/** linguist-generated=true
+/ios/** linguist-generated=true
+/linux/** linguist-generated=true
+/windows/** linguist-generated=true
+/web/** linguist-generated=true
+*.cmake linguist-generated=true
+CMakeLists.txt linguist-generated=true
+*.html linguist-generated=true
